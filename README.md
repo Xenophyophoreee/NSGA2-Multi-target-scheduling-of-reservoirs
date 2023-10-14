@@ -1,4 +1,4 @@
-# NSGA-help-xmq-
+# NSGA-Multi-target-scheduling-of-reservoirs
 采用NSGA2算法进行多目标优化问题的求解，优化调度目标包括生态需水量最小、发电效益最大
 
 The NSGA2 algorithm is used to solve the multi-objective optimization problem, and the optimal scheduling objectives include minimizing ecological water demand and maximizing power generation efficiency.
