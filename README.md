@@ -1,9 +1,9 @@
-## NSGA-Multi-target-scheduling-of-reservoirs
-# Project profile
+# NSGA-Multi-target-scheduling-of-reservoirs
+## Project profile
 The NSGA2 algorithm is used to solve the multi-objective optimization problem, and the optimal scheduling objectives include minimizing ecological water demand and maximizing power generation efficiency.
 
 采用NSGA2算法进行多目标优化问题的求解，优化调度目标包括生态需水量最小、发电效益最大
-# About the project content
+## About the project content
 The project -hanshunihe- is the fitting function file, -NSGA2- is the main project file
 The demo files in the project are all test files in the debugging process, which are not related to the main program and can be ignored.
 The project carries out the optimal scheduling calculation of the reservoirs, with the goal of maximizing the power generation of all the reservoirs and minimizing the ecological water demand of the basin. All reservoirs in the basin are unregulated reservoirs except for the first reservoir which has regulation capacity.
